@@ -1,0 +1,16 @@
+[
+  {
+    "dir": "hello-world",
+    "name": "Hello, World",
+    "description": "Square 1080x1080 perfect for Instagram feed",
+    "category": "Social Media",
+    "keywords": ["instagram", "social", "square", "post", "feed"]
+  },
+  {
+    "dir": "saber-da-vinci",
+    "name": "Saber da Vinci Mascot",
+    "description": "1280x720 optimized for YouTube videos",
+    "category": "YouTube",
+    "keywords": ["youtube", "thumbnail", "video", "cover"]
+  }
+]
